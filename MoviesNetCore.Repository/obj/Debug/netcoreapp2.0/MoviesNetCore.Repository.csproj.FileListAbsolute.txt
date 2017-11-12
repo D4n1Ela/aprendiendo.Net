@@ -1,0 +1,10 @@
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\bin\Debug\netcoreapp2.0\MoviesNetCore.Repository.deps.json
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\bin\Debug\netcoreapp2.0\MoviesNetCore.Repository.dll
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\bin\Debug\netcoreapp2.0\MoviesNetCore.Repository.pdb
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\bin\Debug\netcoreapp2.0\MoviesNetCore.Model.dll
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\bin\Debug\netcoreapp2.0\MoviesNetCore.Model.pdb
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\obj\Debug\netcoreapp2.0\MoviesNetCore.Repository.csproj.CoreCompileInputs.cache
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\obj\Debug\netcoreapp2.0\MoviesNetCore.Repository.AssemblyInfoInputs.cache
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\obj\Debug\netcoreapp2.0\MoviesNetCore.Repository.AssemblyInfo.cs
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\obj\Debug\netcoreapp2.0\MoviesNetCore.Repository.dll
+c:\Users\daguirre\Downloads\HexactaLabs-BA-NET-master\HexactaLabs-BA-NET-master\MoviesNetCoreFinal\MoviesNetCore.Repository\obj\Debug\netcoreapp2.0\MoviesNetCore.Repository.pdb

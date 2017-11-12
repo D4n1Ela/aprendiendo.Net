@@ -7,7 +7,9 @@ namespace MoviesNetCore.Repository
     public class GenreRepository : IGenreRepository
     {
         private readonly DatabaseContext db;
+
         
+
         public GenreRepository(DatabaseContext db)
         {
             this.db = db;
@@ -15,12 +17,19 @@ namespace MoviesNetCore.Repository
 
         public void Delete(int id)
         {
-            throw new System.NotImplementedException();
+            Genre genre = this.GetById(id);
+            this.db.Genres.Remove(genre);
+            this.db.SaveChanges();
         }
 
         public Genre Get(int id)
         {
             throw new System.NotImplementedException();
+        }
+
+        public Genre GetById(string id)
+        {
+            return this.db.Genres.Find(id);
         }
 
         public IEnumerable<Genre> List()
@@ -33,7 +42,8 @@ namespace MoviesNetCore.Repository
 
         public void Update(Genre genre)
         {
-            throw new System.NotImplementedException();
+            this.db.Genres.Update(genre);
+            this.db.SaveChanges();
         }
     }
 }
